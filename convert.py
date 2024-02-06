@@ -1,9 +1,4 @@
 #!/usr/bin/env python
-#
-# AccessDump.py
-# A simple script to dump the contents of a Microsoft Access Database.
-# It depends upon the mdbtools suite:
-#   http://sourceforge.net/projects/mdbtools/
 
 import sys, subprocess, os
 
